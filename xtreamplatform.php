@@ -33,8 +33,7 @@ shell_exec("apt-get remove -y apache2 > /dev/null 2>&1");
                                         LcfjU:
                                             shell_exec("echo 'sudo /etc/init.d/xtreamcodes start' >> /etc/rc.local");
                                             gotoC_1wG;
-                                            k3ZUk:
-                                                shell_exec("apt-get install -y --force-yes libpng12-0 > /dev/null 2>&1");
+                                            k3ZUk:                                                shell_exec("apt-get install -y --force-yes libpng12-0 > /dev/null 2>&1");
                                                 gotocIB_t;
                                                 oTbWW:
                                                     $Rc2FQ = trim($fgMof);
