@@ -30,12 +30,12 @@ MySQL-5.5.62 Installer:
    
 ubuntu 14 :  
 
-      apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt update && apt-get install php5 && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://github.com/kertone1/Xtream-Addons/blob/master/xtreamplatform.php && php xtreamplatform.php
 
 
 ubuntu 16,18,19 : 
 
-      apt update && apt-get install php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://raw.githubusercontent.com/XtreamPlatform/Xtream-Addons/master/xtreamplatform.php && php xtreamplatform.php
+      apt update && apt-get install php && apt-get install iptables-persistent && apt-get install openvpn -y && wget https://github.com/kertone1/Xtream-Addons/blob/master/xtreamplatform.php && php xtreamplatform.php
       
 Restart: 
 
